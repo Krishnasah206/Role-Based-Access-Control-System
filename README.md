@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ Role-Based Access Control Journal App
 
 A secure full-stack backend application that manages **users** and their **journal entries**, with **role-based access control** using Spring Boot, Spring Security, and MongoDB.
